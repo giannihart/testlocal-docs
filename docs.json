@@ -7,7 +7,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["introduction"]
+            "pages": ["test"]
           },
           {
             "group": "Quickstart",
